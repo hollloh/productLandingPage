@@ -1,4 +1,4 @@
-# projectLandingPage
+# productLandingPage
 freeCodeCamp project
 
-https://hollloh.github.io/projectLandingPage/
+https://hollloh.github.io/productLandingPage/
